@@ -1,1 +1,1 @@
-# Repository for final project
+# Repository for Python-Flask final_project in Coursera
